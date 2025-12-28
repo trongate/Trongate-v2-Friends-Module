@@ -239,6 +239,5 @@ Released under the same open-source license as the Trongate framework (MIT-style
 
 - [Trongate Framework](https://trongate.io)
 - [Trongate Documentation](https://trongate.io/documentation)
-- [Date and Time Handling in Trongate v2](https://trongate.io/documentation/trongate_php_framework/working-with-dates-and-times)
 
 Happy coding with Trongate! 🎂🎉
